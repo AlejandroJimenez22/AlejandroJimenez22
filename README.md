@@ -1,16 +1,13 @@
-<hr>
-<h3 align= "center">
-  Hi there! I'm Alejandro
+<div align= "center">
+  <img height="270px" alt="Dr. Strange" src="https://media.tenor.com/OnyL9b3bNfMAAAAj/mom-powerful.gif" >
   <br>
-  <br>
-  <img height="250px" alt="Random guy typing" src="https://i.redd.it/jx1lhb2u6cy91.gif" >
-</h3>
+  <h3> Hi there! I'm Alejandro </h3>
+</div>
 
 <p align="center">
-  I'm a <strong>Software Engineer</strong> and Full Stack Developer graduated from the
+  I'm a <strong>Software Engineer</strong> graduated from the
   <strong>Escuela Politécnica Nacional</strong> - Quito, Ecuador 🇪🇨
 </p>
-<hr>
 
 As a **Doctor Strange** fan, I tend to analyze all 14,000,605 possible futures for a project... just to code the only one where there are no bugs in production. 🌌✨
 
@@ -19,12 +16,12 @@ As a **Doctor Strange** fan, I tend to analyze all 14,000,605 possible futures f
 I navigate fluently between Frontend and Backend, choosing the best tools for each universe (or project).
 
 ### Backend & Frameworks
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Frontend & UI
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -45,7 +42,6 @@ I navigate fluently between Frontend and Backend, choosing the best tools for ea
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Testing](https://img.shields.io/badge/TDD/BDD-yellowgreen?style=for-the-badge&logo=testing-library&logoColor=white)
 
-
 ### 🔍 Research & Specialized Tools
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-%23F2C811.svg?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
@@ -57,7 +53,6 @@ I navigate fluently between Frontend and Backend, choosing the best tools for ea
 * **Value-Oriented Development:** I don't just build to meet standards; I build to solve real needs. I strive to understand the "why" behind every process to ensure a significant impact on the industry.
 * **Human-Centric Purpose:** I believe software goes beyond technology and remuneration. My goal is to create solutions that bring genuine value to both the field and the people who use them.
 * **Testing:** I don't rely on luck; I rely on my tests.
-
 
 ## 🧊 Fun Facts (Beyond the Code)
 
