@@ -3,7 +3,7 @@
   Hi there! I'm Alejandro
   <br>
   <br>
-  <img height="250px" alt="Random guy typing" src="https://media.tenor.com/uPKBSSYU8BcAAAAj/computer-pixel.gif" >
+  <img height="250px" alt="Random guy typing" src="https://i.redd.it/jx1lhb2u6cy91.gif" >
 </h3>
 
 <p align="center">
@@ -67,12 +67,12 @@ I navigate fluently between Frontend and Backend, choosing the best tools for ea
 ## 📊 My data
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianJimenez2&theme=tokyonight&hide_border=true" alt="Sebastián's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroJimenez22&theme=tokyonight&hide_border=true" alt="Sebastián's GitHub Streak" />
 </div>
 
 ## 📫 Let's Connect!
 
 If you want to talk about tech, collaboration opportunities, or debate which Geometry Dash level is actually the hardest, feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastián-jiménez/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-jimenez22/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandrosj159@gmail.com)
